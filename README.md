@@ -9,9 +9,3 @@ These instructions will get you a copy of the project up and running on your loc
 
 * Python (version 3.x)
 
-### Installing
-
-1. Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/Library-Management-System.git
